@@ -1,2 +1,3 @@
-# hello-world Architect Series
-I want to be an architect. 
+# hello-world
+## Architect Series
+This repo will contain a series of projects that demonstrate "architect" skills.
